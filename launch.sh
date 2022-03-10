@@ -1,0 +1,1 @@
+launch_robot.py robot_client=franka_hardware robot_client.collision_behavior.lower_torque=[500,500,500,500,500,500,500] robot_client.collision_behavior.upper_torque=[500,500,500,500,500,500,500] robot_client.collision_behavior.lower_force=[500,500,500,500,500,500,500] robot_client.collision_behavior.upper_force=[500,500,500,500,500,500,500];
